@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey there! I'm Mohamed Benabdallah—part-time coder, full-time defender of the digital realm. 🛡️<br><br>🔒 Cybersecurity Enthusiast: Passionate about safeguarding the internet one byte at a time. Whether it’s ethical hacking, network fortification, or unraveling vulnerabilities, I’m all in.<br>💻 Part-Time Full-Stack Developer: Crafting secure, efficient applications and bridging the gap between development and defense.<br><br>🎓 College Dreamer in CS & IT: On a mission to turn curiosity into expertise, exploring the intersections of code, security, and innovation.<br><br>💡 When I’m not debugging systems or brainstorming defense strategies, you’ll find me diving into tech trends or geeking out over cybersecurity challenges.<br><br>Let’s connect, collaborate, and conquer digital frontiers together! 🌐
+Hey there! I’m Mouhamed Benabdallah—part-time coder, full-time defender of the digital realm. 🛡️<br><br>🔒 Cybersecurity Enthusiast: Passionate about ethical hacking, network fortification, and uncovering vulnerabilities.<br>🎯 CTF Player: Always up for the challenge of cracking codes and solving puzzles in Capture The Flag competitions.<br><br>💻 Part-Time Full-Stack Developer: Blending secure coding practices with innovative application development.<br>🎓 CS & IT Student: Turning my college journey into a launchpad for exploring cybersecurity and software development.<br><br>💡 When I’m not securing systems or chasing flags, I’m geeking out over tech trends and sharpening my skills in the ever-evolving digital landscape.<br><br>Let’s connect and tackle the next big challenge together! 🌐
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Benabdallah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Med-Benabdallah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Med-Benabdallah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
