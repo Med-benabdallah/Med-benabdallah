@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there! I’m Mouhamed Benabdallah—part-time coder, full-time defender of the digital realm. 🛡️<br><br>🔒 Cybersecurity Enthusiast: Passionate about ethical hacking, network fortification, and uncovering vulnerabilities.<br>🎯 CTF Player: Always up for the challenge of cracking codes and solving puzzles in Capture The Flag competitions.
-<br><br>💻 Part-Time Full-Stack Developer: Blending secure coding practices with innovative application development.<br>🎓 CS & IT Student: Turning my college journey into a launchpad for exploring cybersecurity and software development.<br><br>💡 When I’m not securing systems or chasing flags, I’m geeking out over tech trends and sharpening my skills in the ever-evolving digital landscape.<br><br>Let’s connect and tackle the next big challenge together! 🌐
+<br><br>💻 Part-Time Full-Stack Developer: Blending secure coding practices with innovative application development.<br>💡 When I’m not securing systems or chasing flags, I’m geeking out over tech trends and sharpening my skills in the ever-evolving digital landscape.<br><br>Let’s connect and tackle the next big challenge together! 🌐
 
 
 ## 🌐 Socials:
